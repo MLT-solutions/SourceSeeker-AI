@@ -17,7 +17,7 @@ SourceSeeker AI is a powerful, privacy-focused utility designed for digital arti
 
 **Compare Versions:**
 
-| Feature | GitHub Source (Free) | MS Store App (Paid) |
+| Feature | GitHub Source (Free) | MS Store App (7-days Trial + Paid) |
 | :---- | :---- | :---- |
 | **Visual Hashing** | Included | Included |
 | **AI Metadata Extraction** | Included | Included |
