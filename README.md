@@ -1,5 +1,13 @@
 # SourceSeeker-AI
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.8+-yellow)
+
 Find original high-res photos using visual search. Organize local files and view AI generation data.
+
+<img width="1867" height="1054" alt="Screenshot 2026-01-01 100701" src="https://github.com/user-attachments/assets/cf0d8030-480e-4ded-988a-f2086977f571" />
+<img width="1772" height="1055" alt="Screenshot 2026-01-01 100711" src="https://github.com/user-attachments/assets/e9c956c2-5fb8-413e-894b-e0948e988e69" />
+
 
 ### **Description**
 
@@ -14,6 +22,8 @@ SourceSeeker AI is a powerful, privacy-focused utility designed for digital arti
 * **Smart Caching:** Uses a high-performance SQLite database to make repeated scans of large folders instant.  
 * **AI Metadata Reader:** Specifically built for AI Artists—view and copy prompts, seeds, and workflow data from images created with Stable Diffusion, Automatic1111, or ComfyUI.  
 * **Workflow Efficiency:** Right-click to open file locations, copy generation data, or delete duplicates directly from the app.
+* **Drag & Drop:** Simply drag your reference image into the app.
+
 
 **Compare Versions:**
 
