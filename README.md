@@ -5,6 +5,9 @@
 
 Find original high-res photos using visual search. Organize local files and view AI generation data.
 
+<img width="1875" height="1043" alt="Screenshot 2026-01-01 103648" src="https://github.com/user-attachments/assets/56026575-1d6f-4ca3-a374-470c05035301" />
+
+
 | Panel 1 | Panel 2 | Panel 3 |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/cf0d8030-480e-4ded-988a-f2086977f571" width="100%"> | <img src="https://github.com/user-attachments/assets/3f575688-87ad-419f-b92b-7181bafab329" width="100%"> | <img src="https://github.com/user-attachments/assets/e9c956c2-5fb8-413e-894b-e0948e988e69" width="100%"> |
