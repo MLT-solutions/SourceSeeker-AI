@@ -36,6 +36,12 @@ SourceSeeker AI is a powerful, privacy-focused utility designed for digital arti
 | **Support** | Community Issues | **Priority Support** |
 | **App File** | image_finder.py | TBC |
 
+## DISCLAIMER:  
+This software is provided "as is", without warranty of any kind, express or implied. The developer is not liable for any data loss or damages arising from the use of this software.  
+
+**Note on Deletion:** This app includes a feature to permanently delete files. Please use this feature with caution. Deleted files may not be recoverable. Always verify the file path before confirming deletion.
+
+
 ## ⚖️ License
 
 Distributed under the MIT License. See `LICENSE` for more information.
