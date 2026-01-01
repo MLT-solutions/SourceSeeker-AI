@@ -5,9 +5,9 @@
 
 Find original high-res photos using visual search. Organize local files and view AI generation data.
 
-<img width="1867" height="1054" alt="Screenshot 2026-01-01 100701" src="https://github.com/user-attachments/assets/cf0d8030-480e-4ded-988a-f2086977f571" />
-<img width="1772" height="1055" alt="Screenshot 2026-01-01 100711" src="https://github.com/user-attachments/assets/e9c956c2-5fb8-413e-894b-e0948e988e69" />
-
+| Panel 1 | Panel 2 | Panel 3 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/cf0d8030-480e-4ded-988a-f2086977f571" width="100%"> | <img src="https://github.com/user-attachments/assets/3f575688-87ad-419f-b92b-7181bafab329" width="100%"> | <img src="https://github.com/user-attachments/assets/e9c956c2-5fb8-413e-894b-e0948e988e69" width="100%"> |
 
 ### **Description**
 
@@ -36,4 +36,7 @@ SourceSeeker AI is a powerful, privacy-focused utility designed for digital arti
 | **Support** | Community Issues | **Priority Support** |
 | **App File** | image_finder.py | TBC |
 
+## ⚖️ License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
