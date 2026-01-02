@@ -25,7 +25,7 @@ SourceSeeker AI is a powerful, privacy-focused utility designed for digital arti
 * **Smart Caching:** Uses a high-performance SQLite database to make repeated scans of large folders instant.  
 * **AI Metadata Reader:** Specifically built for AI Artists—view and copy prompts, seeds, and workflow data from images created with Stable Diffusion, Automatic1111, or ComfyUI.  
 * **Workflow Efficiency:** Right-click to open file locations, copy generation data, or delete duplicates directly from the app.
-* **Drag & Drop:** Simply drag your reference image into the app.
+
 
 
 **Compare Versions:**
