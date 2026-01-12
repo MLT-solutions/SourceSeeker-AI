@@ -37,7 +37,7 @@ SourceSeeker AI is a powerful, privacy-focused utility designed for digital arti
 | **Installation** | Requires Python & Dependencies | **One-Click Install (.exe)** |
 | **Updates** | Manual Pull | **Automatic Updates** |
 | **Support** | Community Issues | **Priority Support** |
-| **App File** | image_finder.py | TBC |
+| **App File** | image_finder.py | [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9pd58qwjhvwj) |
 
 ## DISCLAIMER:  
 This software is provided "as is", without warranty of any kind, express or implied. The developer is not liable for any data loss or damages arising from the use of this software.  
